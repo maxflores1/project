@@ -1,0 +1,17 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="3Nzkm!-`ZD!Bnp_}()(p" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="NES~K`6.5TTa/59KPFHc"><value name="color"><shadow type="colorindexpicker" id="8yn{pvDMQcB,12oLfeu,"><field name="index">6</field></shadow></value><next><block type="particlesStartScreenAnimation" id="CBb`O-DB7{a3{NsT,Seq"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="effect">effects.confetti</field><value name="duration"><shadow type="timePicker" id="0~|/GHvNX,Xg6bp#%eSm"><field name="ms">500</field></shadow></value><next><block type="device_pause" id="]GAwB5te=0pk*Sg,KORA"><value name="pause"><shadow type="timePicker" id="/bg=4k*7Z|[Cf?$~7Y8+"><field name="ms">3000</field></shadow></value><next><block type="game_dialog_set_frame" id="b,8l%xFeaAM+~PXUS1ON"><value name="frame"><shadow type="dialog_image_picker" id="yO,wkFPNnw*bnw]zNkv|"><field name="img">img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"yO,wkFPNnw*bnw]zNkv|"}}</data></shadow></value><next><block type="game_dialog_set_text_color" id="M:#RwW%]^cs_g2-:|@_i"><value name="color"><shadow type="colorindexpicker" id="o9d$tYAn:?;zq7D7WP}m"><field name="index">0</field></shadow></value><next><block type="gameSplash" id="4vC5,uQ5r4Qh63+I0T84"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="title"><shadow type="text" id="/lSQuP+QVzCvY/Hzt{VE"><field name="TEXT">Welcome to good burger</field></shadow></value><value name="subtitle"><shadow type="text" id="x0w=]|`]W0mjin-etJTt"><field name="TEXT"></field></shadow></value><next><block type="particlesEndScreenAnimation" id="-=[N2i_(d7rL(9O[T{%Z"><field name="effect">effects.confetti</field><next><block type="mixer_play_sound_until_done" id="-nk:B9,L=dzfO(d_$Ejt"><field name="sound">music.pewPew</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
